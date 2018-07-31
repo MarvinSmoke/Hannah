@@ -1,0 +1,34 @@
+body {
+    background: url(file:///C:/Users/Smoke/Desktop/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BE%D1%81%D0%B84/9620973712_5018315c9f_k.jpg)
+    no-repeat center center fixed;
+    position: absolute;
+}
+*{
+    margin : 0%;
+    padding: 0%;
+}
+a{
+    text-decoration : none;
+}
+li{
+    text-decoration: none;
+    list-style: none;
+}
+
+body
+.logo{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+.graficlogo{
+
+        padding: 5px;
+        max-width: 100%;
+        box-sizing: border-box;
+       
+
+    }
